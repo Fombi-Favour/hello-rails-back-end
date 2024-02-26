@@ -4,6 +4,7 @@
     - [🛠 Built With](#built-with)
         - [Tech Stack](#tech-stack)
         - [Key Features](#key-features)
+    - [Front-end file](#font-end-file)
 - [💻 Getting Started](#getting-started)
     - [Setup](#setup)
     - [Prerequisites](#prerequisites)
@@ -51,6 +52,13 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+
+### Front-end file <a name="front-end-file"></a>
+
+- Project link, [here](https://github.com/Fombi-Favour/hello-react-front-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Features -->
 
